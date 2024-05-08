@@ -8,3 +8,4 @@ for char1 in s:
         lower_case+=1 
 print("lowe_case:",lower_case)
 print("upper_case:",upper_case)
+#
